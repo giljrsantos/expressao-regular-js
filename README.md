@@ -17,7 +17,7 @@ Para que eu conseguisse formatar os dados da string, usei o `replace`.
 
 
 <!-- <p align="center">
-<img src="./src/assets/code-1.png" width="1800" alt="Home">
+<img src="./assets/code-1.png" width="1800" alt="Home">
 </p> -->
 
 
